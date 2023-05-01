@@ -9,7 +9,7 @@
 ## Scenarios Created 
 
 Following the challenge/request, the scenarios were strict in order to accomplish what was asked.
-Because of that I created two similar scenarios, being the difference between them that one searches for the product based on our input on the table that I mentioned above (customizable scenarios) and the other one searches for the product based on the dropdown suggestion thats comes out when we click on the search box.
+Because of that I created two similar scenarios, being the difference between them that one searches for the product based on our input on the table that you'll find on the `.feature` file (100% customizable scenarios) and the other one searches for the product based on the dropdown suggestion thats comes out when we click on the search box.
 
 ## Which technologies were used to create this project ?
 
