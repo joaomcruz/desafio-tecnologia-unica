@@ -59,7 +59,7 @@ This class has some customizable settings , being them the following :
 - `plugin` is a feature that creates beautiful reports. Being one of them in HTML and the other one in JSON (good for CD/CI ) . Those are also customizable. If you don't want to generate these reports, you can remove the feature.
 
 
-- #DO NOT TOUCH the `features` and `glue` words. Those are responsible for linking the feature files with the step definitions files.
+#DO NOT TOUCH the `features` and `glue` words. Those are responsible for linking the feature files with the step definitions files.
 
 - On the feature file, you can customize the product which you want to search on the plataform and the amount of items that you want to add to the cart . Besides that, you can also add more scenarios using the examples table : 
 `    Examples: 
