@@ -1,5 +1,4 @@
-## desafio-tecnologia-unica // tecnologia-unica challenge
-
+## Desafio Tecnologia Única // Tecnologia Única Challenge
 ***
 
 ## Project Description
@@ -7,6 +6,10 @@
 [Desafio Técnico - Automação.pdf](https://github.com/joaomcruz/desafio-tecnologia-unica/files/11365599/Desafio.Tecnico.-.Automacao.pdf)
 
 ***
+## Scenarios Created 
+
+Following the challenge/request, the scenarios were strict in order to accomplish what was asked.
+Because of that I created two similar scenarios, being the difference between them that one searches for the product based on our input on the table that I mentioned above (customizable scenarios) and the other one searches for the product based on the dropdown suggestion thats comes out when we click on the search box.
 
 ## Which technologies were used to create this project ?
 
@@ -55,9 +58,19 @@ This class has some customizable settings , being them the following :
 
 - `plugin` is a feature that creates beautiful reports. Being one of them in HTML and the other one in JSON (good for CD/CI ) . Those are also customizable. If you don't want to generate these reports, you can remove the feature.
 
-- DO NOT TOUCH the `features` and `glue` words. Those are responsible for linking the feature files with the step definitions files.
+
+- #DO NOT TOUCH the `features` and `glue` words. Those are responsible for linking the feature files with the step definitions files.
+
+- On the feature file, you can customize the product which you want to search on the plataform and the amount of items that you want to add to the cart . Besides that, you can also add more scenarios using the examples table : 
+`    Examples: 
+      | productToSearch | amount |
+      | cadeira          | 5     |
+      | mesa            | 3      |
+      | banco           | 2 |
+     
+`
+*** 
 
 
-**
 
 
